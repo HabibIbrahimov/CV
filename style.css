@@ -1,0 +1,89 @@
+.mainpage1{
+    float: left;
+    width:400px;
+    height: 1100px;
+    border: 2px dashed;
+    border-top: none;
+    border-bottom: none;
+    background-color:white
+}
+.mainpage2{
+    width:400px;
+    height: 1100px;
+    float:left
+}
+.headline {
+    position: relative;
+    left: 30px;
+    color:black
+  }
+  .headline1 {
+    position: relative;
+    left: 30px;
+  }
+  .contact {
+    display: inline;
+    position: relative;
+    left: 30px;
+  }
+  .we{
+      position: relative;
+      left: 30px;
+      color:dodgerblue
+  }
+  .op{
+    position: relative;
+    left: 30px;
+    color:dodgerblue
+  }
+  .lng{
+    position: relative;
+    left: 30px;
+    color:dodgerblue
+  }
+  .it{
+    position: relative;
+    left: 30px;
+    color:dodgerblue
+  }
+  .educat{
+    position: relative;
+    left: 30px;
+    color:dodgerblue
+  }
+  .pn1{
+    position: relative;
+    left: 30px;
+  }
+  .pn2{
+    position: relative;
+    left: 30px;
+  }
+  .ct1{
+    position: relative;
+    left: 30px;
+  }
+  .ct2{
+    position: relative;
+    left: 30px;
+  }
+  .ct3{
+    position: relative;
+    left: 30px;
+  }
+  .es1{
+    position: relative;
+    left: 30px;
+  }
+  .es2{
+    position: relative;
+    left: 30px;
+  }
+  p {
+    width: 140px; 
+    position: relative;
+    left: 30px;
+  }
+  p.c1{
+    word-break:keep-all;
+  }
